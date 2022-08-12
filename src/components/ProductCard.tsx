@@ -11,7 +11,7 @@ export interface Props {
     style?: React.CSSProperties;
     children: (args: ProductCardHandlers) => JSX.Element;
     // children?: React.ReactElement | React.ReactElement[];
-    initialValues: InitialValues; 
+    initialValues?: InitialValues; 
     onChange?: (args: onChangeArgs) => void;
 }
 
