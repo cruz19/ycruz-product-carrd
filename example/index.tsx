@@ -5,7 +5,7 @@ import {ProductCard, ProductImage, ProductTitle, ProductButtons} from 'ycruz-pro
 
 const product = {
   id: '1',
-  title: 'Coffe Mug - Card',
+  title: 'Coffe Mug - Card!',
   // img: './coffe-mug.png'
 };
 
